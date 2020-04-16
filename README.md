@@ -8,3 +8,5 @@
 
 *Data Source: Federal Elections Commission*
 
+**BREAKING**
+Trump has dropped out of 2020 race
